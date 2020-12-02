@@ -11,7 +11,7 @@ import SwiftUI
 struct SimpleListsAndNavigationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LandmarkList()
         }
     }
 }
